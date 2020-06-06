@@ -1,0 +1,24 @@
+<!--Generated from HTML Code Play-->
+<!DOCTYPE html>
+<html>
+
+<head>
+ <h2><code><center>ARISHA MASSAGE ROOM</h2>
+<hr> <h4><center>Opening Time : 01:00P.M TO 02:30A.M
+<br>helpline: +8801713703459
+<br>vat challan : SHEIKH RAFI SRV6.8
+
+<br> Date : <input type="date"> <hr>
+Customer name: <input type="name">
+<br>
+Phone number : <input type="number">
+Packegs:  <select  name="packeg">
+<option value="#">10 MINUTE = 20 TAKA</option>
+<option  value="#">20 MINUTE = 30 taka</option>
+<option value="#">30 MINUTE = 45 TAKA </option>
+</select><br> NOTE: screen shot & sent it on Rupali Rupa Fb id <hr>
+<h4><kbd><b>POWERD BY : PABNA SEARCH ENGINE SOFTWARE <hr>
+<!--Generated from HTML Code Play.
+ More application
+ Android Code Play
+ SQL Code Play-->
